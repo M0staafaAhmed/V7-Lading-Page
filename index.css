@@ -256,6 +256,7 @@ body {
 
   .page .container .gallery{
     margin-top: 15px;
+    display: none;
   }
 
   .page .container .gallery img{
